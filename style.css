@@ -1,0 +1,32 @@
+body{
+    width: 1249px;
+    height: 376px;
+    margin-top: 73px;
+    margin-left:86px ;
+    margin-right:105px ;
+    margin-bottom: 575px;
+    margin: auto;
+    border-radius: 30px;
+
+    
+    
+    }
+.h1{
+    border-radius: 30px;
+    background-color: #22F4DA;
+    width: 1249px;
+    height: 376px;
+    flex-shrink: 0;
+
+}
+.h1{
+    color: #000;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    padding-top:29px ;
+    
+}
